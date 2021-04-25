@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aarti
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, django, flask, HTML, CSS, Jvascript
+- 💞️ I’m looking to collaborate on python, django, flask, HTML, CSS, Javascript, Full stack developer.
